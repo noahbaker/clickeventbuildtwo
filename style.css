@@ -1,0 +1,299 @@
+.left {
+	top: 0;
+	left: 0;
+	background-position: left;
+	cursor: pointer;
+	background-image: url("images/imagetwo.png");
+	background-size:cover;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.right {
+	top: 0;
+	right: 0;
+	background-position: right;
+	cursor: pointer;
+	background-image: url("images/imagetwo.png");
+	background-size:cover;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+
+#a {
+	z-index: 100;
+}
+
+#b {
+	z-index: 99;
+}
+
+#c {
+	z-index: 98;
+	left: 5%;
+}
+
+#d {
+	z-index: 97;
+	right: 5%;
+}
+
+#e {
+	z-index: 96;
+	left: 8%;
+}
+
+#f {
+	z-index: 95;
+	right: 8%;
+}
+
+#g {
+	z-index: 94;
+	left: 11%;
+}
+
+#h {
+	z-index: 93;
+	right: 11%;
+}
+
+#i {
+	z-index: 92;
+	left: 14%;
+}
+
+#j {
+	z-index: 91;
+	right: 14%;
+}
+
+#k {
+	z-index: 90;
+	left: 16%;
+}
+
+#l {
+	z-index: 89;
+	right: 16%;
+}
+
+#m {
+	z-index: 88;
+	left: 18%;
+}
+
+#n {
+	z-index: 87;
+	right: 18%;
+}
+
+#o {
+	z-index: 86;
+	left: 20%;
+}
+
+#p {
+	z-index: 85;
+	right: 20%;
+}
+
+#q {
+	z-index: 84;
+	left: 21%;
+}
+
+#r {
+	z-index: 83;
+	right: 21%;
+}
+
+#s {
+	z-index: 82;
+	left: 22%;
+}
+
+#t {
+	z-index: 81;
+	right: 22%;
+}
+
+#u {
+	z-index: 80;
+	left: 23%;
+}
+
+#v {
+	z-index: 79;
+	right: 23%;
+}
+
+#w {
+	z-index: 78;
+	left: 23.75%;
+}
+
+#x {
+	z-index: 77;
+	right: 23.75%;
+}
+
+#y {
+	z-index: 76;
+	left: 24.5%;
+}
+
+#z {
+	z-index: 75;
+	right: 24.5%;
+}
+
+#aa {
+	z-index: 74;
+	left: 25.25%;
+}
+
+#bb {
+	z-index: 73;
+	right: 25.25%;
+}
+/*———*/
+#cc {
+	z-index: 72;
+	left: 25.75%;
+}
+
+#dd {
+	z-index: 71;
+	right: 25.75%;
+}
+
+#ee {
+	z-index: 70;
+	left: 26.25%;
+}
+
+#ff {
+	z-index: 69;
+	right: 26.25%;
+}
+
+#gg {
+	z-index: 68;
+	left: 26.75%;
+}
+
+#hh {
+	z-index: 67;
+	right: 26.75%;
+}
+/*———*/
+
+#ii {
+	z-index: 66;
+	left: 27%;
+}
+
+#jj {
+	z-index: 65;
+	right: 27%;
+}
+
+#kk {
+	z-index: 64;
+	left: 27.25%;
+}
+
+#ll {
+	z-index: 63;
+	right: 27.25%;
+}
+
+#mm {
+	z-index: 62;
+	left: 27.5%;
+}
+
+#nn {
+	z-index: 61;
+	right: 27.5%;
+}
+/*———*/
+
+#oo {
+	z-index: 60;
+	left: 27.625%;
+}
+
+#pp {
+	z-index: 59;
+	right: 27.625%;
+}
+
+#qq {
+	z-index: 58;
+	left: 27.75%;
+}
+
+#rr {
+	z-index: 57;
+	right: 27.75%;
+}
+
+#ss {
+	z-index: 56;
+	left: 27.875%;
+}
+
+#tt {
+	z-index: 55;
+	right: 27.875%;
+}
+/*———*/
+
+#uu {
+	z-index: 54;
+	left: 27.9375%;
+}
+
+#vv {
+	z-index: 53;
+	right: 27.9375%;
+}
+
+#ww {
+	z-index: 52;
+	left: 28%;
+}
+
+#xx {
+	z-index: 51;
+	right: 28%;
+}
+
+#yy {
+	z-index: 50;
+	left: 28.0625%;
+}
+
+#zz {
+	z-index: 49;
+	right: 28.0625%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
